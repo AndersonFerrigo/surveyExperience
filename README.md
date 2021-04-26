@@ -7,7 +7,8 @@ API que será consumida por um sistema de pontuação, onde o usuário poderá q
 <h4>npm run dev<h4>.
 
 #Comando para subir o teste do sistema
-npm run dev.
+
+<h4>npm run dev<h4>.
 
 API ainda em desenvolvimento.
 
